@@ -9,4 +9,4 @@ spec:
       bindings:
         - ref: qotd-app
       template:
-        name: qotd-app
+        ref: qotd-app
